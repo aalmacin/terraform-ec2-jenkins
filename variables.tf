@@ -23,3 +23,5 @@ variable "domain" {
 
 variable "cname" {}
 
+variable "vpc_id" {}
+
